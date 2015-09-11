@@ -4,7 +4,7 @@
  
  import java.util.Scanner;
 
-public class HelloWorld{
+public class MathAverage{
 
      public static void main(String []args){
         Scanner user_input = new Scanner(System.in);
