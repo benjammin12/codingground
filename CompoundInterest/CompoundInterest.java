@@ -29,7 +29,7 @@ public class CompoundInterest {
 				amount = principal*Math.pow(1 + rate, month);
 
 				System.out.println("Amount month " + month + ": " + amount);
-				System.out.println("Total revenue: " + (amount - principal));
+				System.out.println("Total revenue: " + (amount - principal)); //calc total rev
 			}
 
 
