@@ -5,7 +5,7 @@
 *Example of indexOf and substring Methods
 */
 
-public class HelloWorld{
+public class ArrayStringBuilder{
 
      public static void main(String []args){
        int arr1[]  = {4,5,11,3,0,3,2};  //set an array and declare its values
