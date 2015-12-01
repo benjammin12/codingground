@@ -1,3 +1,13 @@
+/*
+*Objective: Print out multiplication table using nested while loops
+* Declare x and column and initialize to be starting point 
+*First while loop to run as long as x <= target amount of tables
+*Second while loop nested inside of first to run as long as column <= x variable
+* increment x inside of first loop and reset column to = 1.
+*/
+
+
+
 public class HelloWorld{
 
      public static void main(String []args){
